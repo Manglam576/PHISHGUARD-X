@@ -1,0 +1,16 @@
+{
+  "is_phishing": false,
+  "probability": 8.4,
+  "findings": [
+    "\u2713 No significant phishing indicators",
+    "\u2713 No suspicious URLs detected",
+    "\u2713 Email authentication appears normal",
+    "\u2713 No suspicious attachments detected"
+  ],
+  "urls_detected": 0,
+  "urls_suspicious": 0,
+  "attachment_name": "None",
+  "attachment_risk": "Safe",
+  "auth_status": "Passed",
+  "semantic_status": "Normal Routine Conversation"
+}

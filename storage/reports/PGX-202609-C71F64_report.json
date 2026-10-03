@@ -1,0 +1,12 @@
+{
+  "verdict": "phishing",
+  "risk_score": 92,
+  "probability": 92.5,
+  "url_status": "COMPLETED",
+  "urls_found": 3,
+  "nlp_status": "COMPLETED",
+  "suspicious_attachments": 1,
+  "headers_parsed": "YES",
+  "message_id": "<mocked@offline.local>",
+  "message": "Threat components successfully simulated via offline mock mode."
+}

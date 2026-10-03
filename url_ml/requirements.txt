@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+xgboost
+shap
+joblib
+tldextract
+fastapi
+uvicorn
+pydantic
+matplotlib

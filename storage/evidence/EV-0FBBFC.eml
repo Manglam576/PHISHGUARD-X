@@ -1,0 +1,34 @@
+From: hr@example.com
+To: employee@example.com
+Subject: Team Meeting =?utf-8?b?4oCT?= Monday at 10:00 AM
+Date: Sat, 05 Sep 2026 00:30:00 +0530
+Message-ID: <legitimate-test-20260905-0030@example.test>
+X-Mailer: PHISHGUARD-X Test Generator
+Authentication-Results: example.test; spf=pass smtp.mailfrom=example.com;
+ dkim=pass header.d=example.com; dmarc=pass header.from=example.com
+Received-SPF: Pass (PHISHGUARD-X TEST: simulated SPF success)
+X-PhishGuard-Test: true
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Hello Team,
+
+This is a reminder that our weekly team meeting is scheduled for Monday at 10=
+:00 AM.
+
+We will discuss:
+- Progress on current tasks
+- Upcoming project milestones
+- Any issues or support needed
+
+Please join the meeting on time. If you are unable to attend, let your team l=
+ead know in advance.
+
+Regards,
+HR Team
+Example Corporation
+
+---
+PHISHGUARD-X TEST SAMPLE
+This email is synthetic test data and is not intended for delivery.

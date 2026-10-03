@@ -1,0 +1,43 @@
+From: security-alert@paypa1-support.com
+To: user@example.com
+Subject: Urgent: Your Account Will Be Suspended Today
+Date: Sat, 05 Sep 2026 00:27:00 +0530
+Message-ID: <phishguard-test-20260905-0027@example.test>
+Reply-To: verify-account@paypa1-support.com
+X-Mailer: PHISHGUARD-X Test Generator
+Authentication-Results: example.test; spf=fail
+ smtp.mailfrom=paypa1-support.com; dkim=fail header.d=paypa1-support.com;
+ dmarc=fail header.from=paypa1-support.com
+Received-SPF: Fail (PHISHGUARD-X TEST: simulated SPF failure)
+X-PhishGuard-Test: true
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Dear Customer,
+
+We detected unusual activity on your account. For your security, your account=
+ has been temporarily restricted.
+
+You must verify your account within 24 hours or your account will be permanen=
+tly suspended.
+
+Please confirm your identity using the secure verification link below:
+
+http://paypa1-account-verification.com/secure/login
+
+You will be asked to provide:
+- Your email address
+- Account password
+- Card information
+- One-time verification code
+
+Failure to complete verification will result in permanent account closure.
+
+Thank you,
+PayPal Security Team
+Account Protection Department
+
+---
+PHISHGUARD-X TEST SAMPLE
+This email is synthetic test data and is not intended for delivery.

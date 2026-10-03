@@ -1,0 +1,28 @@
+{
+    "accuracy": 0.9888038338387158,
+    "precision": 0.9913039132390424,
+    "recall": 0.9824656991430978,
+    "f1_score": 0.9868650181601075,
+    "roc_auc": 0.9976464007638017,
+    "test_size": 0.2,
+    "random_state": 42,
+    "training_samples": 188636,
+    "testing_samples": 47159,
+    "features": [
+        "url_length",
+        "domain_length",
+        "dot_count",
+        "subdomain_count",
+        "digit_count",
+        "letter_count",
+        "hyphen_count",
+        "at_count",
+        "special_char_count",
+        "query_param_count",
+        "fragment_count",
+        "has_ip",
+        "has_punycode",
+        "is_shortened",
+        "suspicious_tld"
+    ]
+}
